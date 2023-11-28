@@ -1,0 +1,11 @@
+h1{
+    color: rgba(55, 55, 206, 0.671);
+    text-align: center;
+}
+.homepage{
+    display: flex;
+}
+header{
+    background-color: #ddd;
+}
+    
